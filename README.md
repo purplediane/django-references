@@ -3,7 +3,7 @@ References from the [Django Girls tutorial](http://tutorial.djangogirls.org/en/i
 Trying to keep track of these things!
 Note: Deploy reminders at the end.
 
-##References from the tutorial:
+###References from the tutorial:
 - [Python documentation with list methods](https://docs.python.org/3/tutorial/datastructures.html)
 - [django-marcador Tutorial](http://django-marcador.keimlink.de/)
 - [Wikipedia timezones list](http://en.wikipedia.org/wiki/List_of_tz_database_time_zones)
@@ -44,7 +44,7 @@ Other stuff for Django:
 
 
 
-## Deploy reminders!
+### Deploy reminders!
 
 Locally:
 

@@ -42,3 +42,38 @@ Other stuff for Django:
 - [Django Packages](https://www.djangopackages.com/) a directory of reusable apps, sites, tools, and more for your Django projects.
 - []()
 - []()
+
+
+## Deploy reminders!
+
+Locally:
+
+```
+$ git status
+$ git add -A .
+$ git status
+$ git commit -m "Added view and template for detailed blog post as well as CSS for the site."
+$ git push
+```
+
+* Then, in a [PythonAnywhere Bash console](https://www.pythonanywhere.com/consoles/):
+
+```
+$ cd my-first-blog
+$ source myvenv/bin/activate
+(myvenv)$ git pull
+[...]
+(myvenv)$ python manage.py collectstatic
+[answer yes to question]
+[...]
+```
+
+* Finally, hop on over to the [Web tab](https://www.pythonanywhere.com/web_app_setup/) and hit **Reload**.
+
+**Note, Save some time.** You can switch from console to web by clicking on the PythonAnywhere logo at the top of the page, then clicking on the Web tab. When you go back to the Consoles tab, There will probably be something like:
+
+**Your consoles:**<br/>
+`Bash console 2049630	- kill`
+
+If you click on the "Bash console", it will bring up the console you were working in. If it hasn't been too long since the last time you used it, all your work will still be there, so all you will need to do is `git pull` and `python manage.py collectstatic`.
+

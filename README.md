@@ -1,6 +1,7 @@
 # django-references
 References from the [Django Girls tutorial](http://tutorial.djangogirls.org/en/index.html) and other places. 
 Trying to keep track of these things!
+Note: Deploy reminders at the end.
 
 ##References from the tutorial:
 - [Python documentation with list methods](https://docs.python.org/3/tutorial/datastructures.html)
@@ -40,8 +41,7 @@ Other stuff for Django:
 - [TaskBuster Django Tutorial](http://www.marinamele.com/taskbuster-django-tutorial) Looks good; up-to-date.
 - [Python Django Starter Kit](http://code.techandstartup.com/django/) Have not looked at it at all.
 - [Django Packages](https://www.djangopackages.com/) a directory of reusable apps, sites, tools, and more for your Django projects.
-- []()
-- []()
+
 
 
 ## Deploy reminders!
@@ -52,7 +52,7 @@ Locally:
 $ git status
 $ git add -A .
 $ git status
-$ git commit -m "Added view and template for detailed blog post as well as CSS for the site."
+$ git commit -m "Commit message"
 $ git push
 ```
 

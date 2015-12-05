@@ -23,7 +23,7 @@ Trying to keep track of these things!
 
 More from DjangoGirls: [Django Girls Tutorial: Extensions](http://djangogirls.gitbooks.io/django-girls-tutorial-extensions/)
 
-From the "What's next?" section of the tutorial
+From the "What's next?" section of the tutorial:
 - [Django's official tutorial](https://docs.djangoproject.com/en/1.8/intro/tutorial01/)
 - [New Coder tutorials](http://newcoder.io/tutorials/)
 - [Code Academy Python course](http://www.codecademy.com/en/tracks/python)
@@ -33,3 +33,12 @@ From the "What's next?" section of the tutorial
 - [Getting Started With Django video lessons](http://gettingstartedwithdjango.com/)
 - [Two Scoops of Django: Best Practices for Django 1.8 book](http://twoscoopspress.com/products/two-scoops-of-django-1-8)
 - [Hello Web App: Learn How to Build a Web App](https://hellowebapp.com/)
+
+
+Other stuff for Django:
+- [Test Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/) Uses Django.
+- [TaskBuster Django Tutorial](http://www.marinamele.com/taskbuster-django-tutorial) Looks good; up-to-date.
+- [Python Django Starter Kit](http://code.techandstartup.com/django/) Have not looked at it at all.
+- [Django Packages](https://www.djangopackages.com/) a directory of reusable apps, sites, tools, and more for your Django projects.
+- []()
+- []()

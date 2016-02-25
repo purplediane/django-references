@@ -55,7 +55,7 @@ Then the website will be at http://127.0.0.1:8000/
 
 ## Deploy reminders!
 
-Locally:
+* Locally:
 
 ```
 $ git status

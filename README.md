@@ -3,7 +3,7 @@ References from the [Django Girls tutorial](http://tutorial.djangogirls.org/en/i
 Trying to keep track of these things!
 Note: Deploy reminders at the end.
 
-###References from the tutorial:
+##References from the tutorial:
 - [Python documentation with list methods](https://docs.python.org/3/tutorial/datastructures.html)
 - [django-marcador Tutorial](http://django-marcador.keimlink.de/)
 - [Wikipedia timezones list](http://en.wikipedia.org/wiki/List_of_tz_database_time_zones)
@@ -43,8 +43,17 @@ Other stuff for Django:
 - [Django Packages](https://www.djangopackages.com/) a directory of reusable apps, sites, tools, and more for your Django projects.
 
 
+## Running locally
 
-### Deploy reminders!
+In another command window (always activate virtualenv):
+
+```
+$ python manage.py runserver
+```
+
+Then the website will be at http://127.0.0.1:8000/
+
+## Deploy reminders!
 
 Locally:
 
